@@ -1,10 +1,12 @@
 *
 !index.html
 !robots.txt
+!sitemap.xml
+!llms.txt
 !.nojekyll
 !.gitignore
 !image/
 image/*
-!image/leaves.jpg
 !image/flowers.jpg
+!image/leaves.jpg
 !image/neutral-room.jpg
