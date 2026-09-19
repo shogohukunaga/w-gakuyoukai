@@ -1,0 +1,10 @@
+*
+!index.html
+!robots.txt
+!.nojekyll
+!.gitignore
+!image/
+image/*
+!image/leaves.jpg
+!image/flowers.jpg
+!image/neutral-room.jpg
